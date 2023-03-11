@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moving-to-mastery-client/static/css/main.51e2c685.css",
+    "main.js": "/moving-to-mastery-client/static/js/main.b37b3bb0.js",
+    "index.html": "/moving-to-mastery-client/index.html",
+    "main.51e2c685.css.map": "/moving-to-mastery-client/static/css/main.51e2c685.css.map",
+    "main.b37b3bb0.js.map": "/moving-to-mastery-client/static/js/main.b37b3bb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51e2c685.css",
+    "static/js/main.b37b3bb0.js"
+  ]
+}
