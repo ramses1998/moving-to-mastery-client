@@ -16,7 +16,7 @@ export type Transaction = {
 }
 
 export const getTransactionsAPI = async (type?: TransactionType): Promise<Transaction[]> => {
-    return (type !== undefined ? transactions.filter(t => t.type === type) : transactions)
+    return (type !== undefined ? transactions.filter((t: Transaction) => t.type === type) : transactions)
         .map(t => convertToTransactionType(t))
 }
 
